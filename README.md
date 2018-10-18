@@ -1,2 +1,1 @@
-# finalProject
-Caritas Bridge
+# caritas-bridge
